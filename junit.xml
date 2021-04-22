@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="2" failures="0" errors="0" time="2.88">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2021-04-07T13:23:33" time="1.892" tests="2">
+    <testcase classname=" document should contain My Daily Calorie Tracker" name=" document should contain My Daily Calorie Tracker" time="0.194">
+    </testcase>
+    <testcase classname=" should calculate today calorie consumed" name=" should calculate today calorie consumed" time="0.166">
+    </testcase>
+  </testsuite>
+</testsuites>
